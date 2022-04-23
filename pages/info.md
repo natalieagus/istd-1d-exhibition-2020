@@ -38,27 +38,30 @@ Students are tasked to design an information system to solve an existing open pr
 
 ### Faculty
 
-<div class="medium-3 columns t30">
-  <figure>
-    <img class="project-image" src="https://istd.sutd.edu.sg/files/people-istd-faculty-oka-kurniawan.jpg" alt="">
-    <figcaption>Oka Kurniawan (Senior Lecturer)</figcaption>
-  </figure>
-</div>
+<div class="row" style="display:flex">
+  <div class="medium-3 columns t30">
+    <figure>
+      <img class="project-image" src="https://istd.sutd.edu.sg/files/people-istd-faculty-oka-kurniawan.jpg" alt="">
+      <figcaption>Oka Kurniawan (Senior Lecturer)</figcaption>
+    </figure>
+  </div>
 
-<div class="medium-3 columns t30">
-  <figure>
-    <img class="project-image" src="https://istd.sutd.edu.sg/files/istd-faculty-kenny-choo-2019.jpg" alt="">
-    <figcaption>Kenny Choo (Senior Lecturer)</figcaption>
-  </figure>
-</div>
+  <div class="medium-3 columns t30">
+    <figure>
+      <img class="project-image" src="https://istd.sutd.edu.sg/files/istd-faculty-kenny-choo-2019.jpg" alt="">
+      <figcaption>Kenny Choo (Senior Lecturer)</figcaption>
+    </figure>
+  </div>
 
-<div class="medium-3 columns t30">
-  <figure>
-    <img class="project-image" src="https://istd.sutd.edu.sg/files/people-istd-faculty-natalieagus.jpg" alt="">
-    <figcaption>Natalie Agus (Lecturer)</figcaption>
-  </figure>
+  <div class="medium-3 columns t30">
+    <figure>
+      <img class="project-image" src="https://istd.sutd.edu.sg/files/people-istd-faculty-natalieagus.jpg" alt="">
+      <figcaption>Natalie Agus (Lecturer)</figcaption>
+    </figure>
+  </div>
 </div>
-<div class="medium-3 columns t30">
+<div class="row" style="display:flex">
+<div class="medium-3 columns t30" >
   <figure>
     <img class="project-image" src="https://istd.sutd.edu.sg/files/xistd-faculty-angela-wang-bo-2021.jpg.pagespeed.ic.6wYryOTLAZ.jpg" alt="">
     <figcaption>Angela Wang Bo (Assistant Professor)</figcaption>
@@ -69,6 +72,7 @@ Students are tasked to design an information system to solve an existing open pr
     <img class="project-image" src="https://istd.sutd.edu.sg/files/xistd-faculty-yeo-si-yong-2021.jpg.pagespeed.ic.GA5_gUVdCK.jpg" alt="">
     <figcaption>Yeo Si Yong (Lecturer)</figcaption>
   </figure>
+</div>
 </div>
 
 ### Project Description
