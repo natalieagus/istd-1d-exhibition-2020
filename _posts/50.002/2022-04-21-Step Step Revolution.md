@@ -7,8 +7,8 @@ tags:
     - post format
 categories:
     - compstruct
-iframe: <iframe src="https://drive.google.com/file/d/13J6aEX2b6CbD65QvaikSV4gBGPKypXfk/preview" width="100%" height="480"></iframe>
-related_image: https://drive.google.com/thumbnail?authuser=0&id=197SLlXVqC8oCbxJAPz_Kv43k134-0sD3&sz=w300-h300-p-k-nu-iv1
+iframe: <video width ="100%" height = "100%" controls="controls" preload="metadata" src="https://www.dropbox.com/s/h2xl50ls4pn8sx2/1D%20Checkoff%204_%20Poster%20and%20Video_1D%2020_attempt_2022-04-18-23-29-43_Team%2020%20SSR%20Game.mp4?raw=1#t=0.5"> Your browser does not support the HTML5 Video element.</video>
+related_image: https://www.dropbox.com/s/zdnvv3jk8v9gzy4/slice1.png?raw=1
 ---
 
 ### Team Members
