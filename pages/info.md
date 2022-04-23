@@ -3,8 +3,6 @@ layout: page
 title: "About the exhibition"
 subheadline: "More details of the courses and the projects"
 permalink: "/info/"
-header:
-  image_fullwidth: "concrete-texture.jpg"
 ---
 
 ## 50.001 Introduction to Information Systems & Programming
@@ -62,8 +60,14 @@ Students are tasked to design an information system to solve an existing open pr
 </div>
 <div class="medium-3 columns t30">
   <figure>
-    <img class="project-image" src="https://istd.sutd.edu.sg/files/istd-faculty-matthieu-de-mari.jpg" alt="">
-    <figcaption>Mattheiu De Mari (Lecturer)</figcaption>
+    <img class="project-image" src="https://istd.sutd.edu.sg/files/xistd-faculty-angela-wang-bo-2021.jpg.pagespeed.ic.6wYryOTLAZ.jpg" alt="">
+    <figcaption>Angela Wang Bo (Assistant Professor)</figcaption>
+  </figure>
+</div>
+<div class="medium-3 columns t30">
+  <figure>
+    <img class="project-image" src="https://istd.sutd.edu.sg/files/xistd-faculty-yeo-si-yong-2021.jpg.pagespeed.ic.GA5_gUVdCK.jpg" alt="">
+    <figcaption>Yeo Si Yong (Lecturer)</figcaption>
   </figure>
 </div>
 

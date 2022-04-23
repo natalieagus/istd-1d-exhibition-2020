@@ -17,7 +17,7 @@ sitemap: false
 SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
-  json: 'https://lyqht.github.io/istd-1d-exhibition-2020/search.json',
+  json: 'https://natalieagus.github.io/istd-1d-exhibition-2022/search.json',
   searchResultTemplate: '<div class="medium-4 columns t30"><a href="{url}"><img src="{related_image}" /><h5>{title}</h5> <p>{subheadline}</p></a></div>'
 })
 </script>
