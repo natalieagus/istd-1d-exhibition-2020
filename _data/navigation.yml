@@ -1,0 +1,19 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: "About"
+  url: "/info/"
+  side: left
+
+- title: "50.001"
+  url: "/50.001/"
+  side: left
+
+- title: "50.002"
+  url: "/50.002/"
+  side: left
+
+- title: "Search"
+  url: "/search/"
+  side: right

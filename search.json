@@ -1,0 +1,18 @@
+---
+---
+[
+  {% for post in site.posts %}
+    {
+      "title"    : "{{ post.title | strip_html | escape }}",
+      "url": "{{ site.url }}{{ post.url }}",
+      "category" : "{{post.categories | join: ', '}}",
+      "tags"     : "{{ post.tags | join: ', ' }}",
+      "date"     : "{{ post.date }}",
+      "subheadline": "{{ post.subheadline }}",
+      "teaser"   : "{{ post.teaser }}",
+      "description" : "{{post.description | strip_html | strip_newlines | escape }}",
+      "related_image": "{{post.related_image}}"
+
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]

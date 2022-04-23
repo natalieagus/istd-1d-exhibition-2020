@@ -1,0 +1,62 @@
+---
+layout: default
+format: frontpage
+---
+<div id="header-home">
+    <div class="row">
+        <div class="small-12 columns">
+        </div><!-- /.medium-4.columns -->
+    </div><!-- /.row -->
+</div><!-- /#header-home -->
+
+
+{% comment %}
+*
+* First check, if widget is empty or not by checking if there is a title
+*
+{% endcomment %}
+<div class="row t60 frontpage-widgets-container">
+	{% if page.widget1.image or page.widget1.video or page.widget1.title %}
+		{% include _frontpage-widget.html widget=page.widget1 %}
+	{% endif %}
+
+	{% if page.widget2.image or page.widget2.video or page.widget2.title %}
+		{% include _frontpage-widget.html widget=page.widget2 %}
+	{% endif %}
+
+	{% if page.widget3.image or page.widget3.video or page.widget3.title %}
+		{% include _frontpage-widget.html widget=page.widget3 %}
+	{% endif %}
+</div><!-- /.row -->
+
+{% comment %}
+*
+* Finally, if there is content, spit it out.
+*
+{% endcomment %}
+
+<div class="row">
+    <div class="frontpage-widget">
+        <h1>Project Highlights</h1>
+        <div>
+            {% for post in site.categories.highlights %}
+                {% assign mod3 = forloop.index | modulo: 2 %}
+                        <div class="medium-6 columns t10">
+                            <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">
+                                <img style="height: 100%; width: 100%" src="{{post.related_image}}" />
+                                <h5>{{post.title}}</h5>
+                                <p>{{post.subheadline}}</p>
+                            </a>
+                        </div>
+
+                        {% if mod3 == 0 or forloop.index == site.categories.highlights.size %}
+                        </div><div class="row">
+                    {% endif %}
+                {% endfor %}
+        </div>
+    </div>
+
+    <div>
+        {{ content }}
+    </div>
+</div><!-- /.row -->
