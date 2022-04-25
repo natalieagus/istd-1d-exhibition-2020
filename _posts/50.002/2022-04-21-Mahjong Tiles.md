@@ -7,7 +7,7 @@ tags:
     - post format
 categories:
     - compstruct
-related_image: https://drive.google.com/thumbnail?authuser=0&id=169yhBhWerPaPb1ymELBK94tqMnmHZci7&sz=w300-h300-p-k-nu-iv1
+related_image: https://www.dropbox.com/s/3rmbhn6upzccy5i/slice1.png?raw=1
 ---
 
 ### Team Members
