@@ -7,6 +7,7 @@ tags:
     - post format
 categories:
     - infosys
+    - highlights
 iframe: <video width ="100%" height = "100%" controls="controls" preload="metadata" src="https://www.dropbox.com/s/ydrpjp0pgs71fe0/1D%20Project%20-%20Checkoff%204%20%28Virtual%20Exhbit%29_1D-C03E_attempt_2022-04-18-23-02-35_mainVideo.mp4?raw=1#t=0.5"> Your browser does not support the HTML5 Video element.</video>
 related_image: https://www.dropbox.com/s/wlmb4y8bslayzm0/slice1.png?raw=1
 ---
