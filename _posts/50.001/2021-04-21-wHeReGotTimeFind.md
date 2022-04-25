@@ -2,11 +2,12 @@
 layout: video
 show_meta: false
 title: wHeReGotTimeFind?!
-subheadline: 50.001 Team 3C
+subheadline: 50.001 Team 3D
 tags:
     - post format
 categories:
     - infosys
+    - highlights
 iframe: <video width ="100%" height = "100%" controls="controls" preload="metadata" src="https://www.dropbox.com/s/6lju2pfu026fayp/1D%20Project%20-%20Checkoff%204%20%28Virtual%20Exhbit%29_1D-C03D_attempt_2022-04-18-17-31-12_wheregottimefind_video.mp4?raw=1#t=0.5"> Your browser does not support the HTML5 Video element.</video>
 related_image: https://www.dropbox.com/s/tzhtaemqlwksz08/slice1.png?raw=1
 ---
