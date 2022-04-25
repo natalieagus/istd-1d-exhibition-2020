@@ -37,7 +37,7 @@ improve_content: ""
 #
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
-#
+# slash needed at the end
 urlimg: "https://natalieagus.github.io/istd-1d-exhibition-2022/images/"
 
 # Logo size is 600x80 pixels
