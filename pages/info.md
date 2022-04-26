@@ -25,10 +25,6 @@ permalink: "/info/"
     <figcaption>Norman Lee Tiong Seng (Senior Lecturer)</figcaption>
   </figure>
 </div>
-<div class="medium-3 columns t30" style="opacity:0;"><figure>
-    <img class="project-image" src="https://istd.sutd.edu.sg/files/people-istd-faculty-ngai-man-cheung.jpg" alt="">
-    <figcaption>Ngai-Man (Man) Cheung (Associate Professor)</figcaption>
-  </figure></div>
 
 ### Project Description
 
