@@ -1,0 +1,5 @@
+http://localhost:8080
+root * ./_site/
+try_files {path}.html {path}
+
+file_server
